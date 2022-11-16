@@ -24,10 +24,11 @@ private ConstraintLayout startBtn;
         startBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(IntroActivity.this,MainActivity.class));
+                startActivity(new Intent(IntroActivity.this,LoginActivity.class));
             }
         });
     }
+
 
 
 }

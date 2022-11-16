@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617690375677",
+    "project_id": "my-project-finalkenagro",
+    "storage_bucket": "my-project-finalkenagro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617690375677:android:fea439c1dfcc79e8286594",
+        "android_client_info": {
+          "package_name": "com.gloria.myprojectfinalkenagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617690375677-j5it2s00jqmj9rnd3jaek9ftgqpq9o6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDc3t-b0_fcxK9HNrmeXsBr6nq-Ub_Nbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617690375677-j5it2s00jqmj9rnd3jaek9ftgqpq9o6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

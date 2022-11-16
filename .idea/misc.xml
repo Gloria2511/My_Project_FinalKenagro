@@ -3,11 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cart_background.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cat_background.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cat_background2.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cat_background3.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cat_background4.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/cat_background5.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/input_bg.xml" value="0.1" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/orange_button.xml" value="0.22" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/orange_light_banner.xml" value="0.12432432432432433" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/search_background.xml" value="0.12432432432432433" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_intro.xml" value="0.14666666666666667" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/drawable/viewholder_popular.xml" value="0.12364864864864865" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_cart_list.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_location.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_login.xml" value="0.185" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/activity_show_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/viewholder_cart.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/viewholder_category.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyProjectFinalKenagro/app/src/main/res/layout/viewholder_popular.xml" value="0.1" />
       </map>
     </option>
   </component>
